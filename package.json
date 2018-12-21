@@ -1,20 +1,16 @@
 {
-  "name": "bitandbang",
-  "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "zackharley",
+  "version": "1.0.0",
+  "description": "A personal card for Zack Harley (@zackharley)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "zackharley": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/zackharley/zackharley.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Tierney Cyren <zackharley@gmail.com> (https://zackharley.com)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",

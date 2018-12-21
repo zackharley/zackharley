@@ -1,9 +1,7 @@
-It's me, Tierney!
+It's me, Zack!
 
 # Usage
-Via npx:
+Via [npx](https://blog.npmjs.org/post/162869356040/introducing-npx-an-npm-package-runner):
 ```
-npx bitandbang
+npx zackharley
 ```
-
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
