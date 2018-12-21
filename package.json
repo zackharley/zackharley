@@ -1,6 +1,6 @@
 {
   "name": "zackharley",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "A personal card for Zack Harley (@zackharley)",
   "main": "index.js",
   "bin": {

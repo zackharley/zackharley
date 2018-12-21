@@ -19,7 +19,7 @@ const body = [
 ]
   .map(formatLine)
   .join('\n');
-const npx = `Card:  ${chalk.white('npx zackharley')}`;
+const npx = `      Card:  ${chalk.white('npx zackharley')}`;
 const output = heading + '\n\n' + body + '\n\n' + npx;
 
 const boxenOptions = {
